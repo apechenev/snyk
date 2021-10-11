@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  
   Snyk helps you find, fix and monitor known vulnerabilities in open source
 </p>
 
